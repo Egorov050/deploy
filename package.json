@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "ethers": "^3.0.29",
+    "fs-extra": "^11.1.0",
+    "ganache": "^7.7.3",
+    "solc": "^0.8.17"
+  }
+}
